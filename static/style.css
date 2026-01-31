@@ -1,0 +1,23 @@
+body {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1.2rem;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.65;
+  color: #111;
+  background: #fff;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2.5rem 0;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
