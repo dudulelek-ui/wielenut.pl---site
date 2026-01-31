@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Site.Title }}</title>
+</head>
+<body>
+  <main>
+    {{ with .Site.GetPage "/" }}
+      {{ .Content }}
+    {{ end }}
+  </main>
+</body>
+</html>
