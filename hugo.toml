@@ -1,3 +1,6 @@
-baseURL = "https://wielenut.netlify.app/"
-languageCode = "pl-pl"
-title = "wielenut"
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.121.2"
