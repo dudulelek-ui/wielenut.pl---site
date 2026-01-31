@@ -15,6 +15,9 @@ jak membrana, przez którą przepływa oddech, myśl i milczenie.
 
 - **22 lutego 2026** — koncert  
   La Bohème, Warszawa, ul. Mysłowiecka 1
+[więcej o koncercie →](/koncert/)
+
+  
 
 Strona jest w budowie.  
 Nie pośpiechu. Nie feedu. Jest ruchem.
